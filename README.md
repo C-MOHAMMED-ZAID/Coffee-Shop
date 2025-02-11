@@ -35,7 +35,7 @@ The project includes the following files:
 1.  **Clone the Repository:**
 
     ```
-    git clone [repository URL]
+    git clone [https://c-mohammed-zaid.github.io/Coffee-Shop/]
     ```
 
 2.  **Open in Browser:** Open the `index.html` file in any web browser to view the website.
